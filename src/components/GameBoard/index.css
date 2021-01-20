@@ -1,0 +1,28 @@
+.board-button {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    background-color: white;
+    font-size: 40px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.board-button-blue:hover {
+  background-color: #e9fbff;
+}
+
+.board-button-green:hover {
+  background-color: #f2ffe9;
+}
+
+.board-button:focus {
+    outline: none;
+}
+
+.game-board {
+    width: 300px;
+    height: 300px;
+    display: grid;
+    grid-template: repeat(3, 1fr) / repeat(3, 1fr);
+    margin: auto;
+}

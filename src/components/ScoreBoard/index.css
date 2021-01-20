@@ -1,0 +1,15 @@
+.scoreboard {
+    height: 30px;
+    margin: 40px 0 30px;
+  }
+
+.scoreboard-text {
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.scoreboard-text-bold {
+  font-size: 22px;
+  font-weight: bold;
+  font-family: 'Raleway', sans-serif;
+}
