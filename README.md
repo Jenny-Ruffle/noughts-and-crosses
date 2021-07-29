@@ -1,7 +1,7 @@
 
-# Games Library - development playground
+# Noughts & Crosses
 
-A library for small games, built with modern React practices.
+Little noughts and crosses app, built with modern React practices.
 
 ## Available Scripts
 
